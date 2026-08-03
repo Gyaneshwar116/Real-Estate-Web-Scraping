@@ -1,2 +1,2 @@
 # Real-Estate-Web-Scraping
-A Python web scraping project that collects Hyderabad real estate listings using Selenium, Requests, BeautifulSoup, and Regular Expressions (Regex), extracts key property details from multiple pages, performs basic data cleaning, and exports the structured dataset to CSV for further analysis.
+Developed a Python web scraping pipeline using Selenium, Requests, BeautifulSoup, and Regular Expressions (Regex) to collect Hyderabad real estate listings, extract key property details across multiple pages, perform basic data cleaning, and export the dataset to CSV for further exploratory data analysis.
